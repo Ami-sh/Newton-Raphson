@@ -6,7 +6,8 @@ loop until all roots calculated {
 
 -Newton-Raphson method on function {
 
-    gives a random root}
+    gives a random root }
 	
 -new function = (old function)/(x-root) 
+
 }
